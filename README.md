@@ -14,13 +14,13 @@ An Azure-powered Power BI project showcasing advanced data engineering and visua
 ## Methodology
 1. Ingested raw Tokyo Olympics medal data into Azure Data Lake Storage, establishing a centralized data repository.
 2. Utilized Azure Databricks to process and clean the data, writing PySpark scripts for transformations and aggregations.
-3. Engineered a data pipeline using Azure Synapse Analytics to import and further process MedalsView data from the processed lake storage.
+3. Engineered a data pipeline using Azure Synapse Analytics to import and further process MedalsView data from the processed Data lake storage.
 4. Modeled the data with DAX to summarize Gold, Silver, and Bronze medal counts across 93 countries.
 5. Designed an interactive Matrix visual with conditional formatting, sorted by a custom TotalMedals measure.
 6. Published the report to Power BI Service for accessibility and scalability.
 
 ## Screenshots
-<img width="802" alt="matrix-visual" src="https://github.com/user-attachments/assets/20a576f1-9969-4068-b484-648fa1acd63a" />
+![Matrix Visual](matrix-visual.png)  
 
 *The Matrix visual displays 93 countries with their Gold, Silver, and Bronze medal counts, sorted by total medals, demonstrating an end-to-end Azure-driven data engineering workflow.*
 
