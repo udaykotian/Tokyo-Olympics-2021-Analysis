@@ -20,8 +20,8 @@ An Azure-powered Power BI project showcasing advanced data engineering and visua
 6. Published the report to Power BI Service for accessibility and scalability.
 
 ## Screenshots
- [NewTokyoOlympicsReport.pdf](https://github.com/user-attachments/files/19273795/NewTokyoOlympicsReport.pdf)
- 
+<img width="802" alt="matrix-visual" src="https://github.com/user-attachments/assets/20a576f1-9969-4068-b484-648fa1acd63a" />
+
 *The Matrix visual displays 93 countries with their Gold, Silver, and Bronze medal counts, sorted by total medals, demonstrating an end-to-end Azure-driven data engineering workflow.*
 
 ## Outcome
